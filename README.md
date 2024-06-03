@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Flight Fare Prediction
+
+## Flight Fare Prediction
 
 ## Overview
 Welcome to the Flight Fare Prediction project! This project aims to streamline travel planning by predicting accurate flight fares. Leveraging a combination of machine learning and web development technologies, we provide users with a reliable tool for making informed travel decisions.
@@ -10,7 +10,7 @@ Welcome to the Flight Fare Prediction project! This project aims to streamline t
 - Python (for machine learning)
 - TensorFlow, scikit-learn (for predictive modeling)
 
-=======
+
 # Atlasfly
 Atlasfly is a Flight Fare Prediction website developed using Machine Learning
 # Flight Fare Prediction Project
@@ -41,7 +41,7 @@ Atlasfly is a Flight Fare Prediction website developed using Machine Learning
 7. Database 
 
 </pre>
->>>>>>> origin/main
+
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your-username/flight-fare-prediction.git`
 2. Install dependencies: `pip install -r requirements.txt`
@@ -60,9 +60,8 @@ We welcome contributions from the community! If you'd like to contribute, please
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to reach out to the team if you have any questions or suggestions. Happy coding and safe travels!
-<<<<<<< HEAD
-=======
+## Feel free to reach out to the team if you have any questions or suggestions. Happy coding and safe travels!
+
 ## HLD , LLD & WireFrame
 link : [https://drive.google.com/drive/folders/1_DhdjzIO776um5f6qzeYBEsiP2DATLFe?usp=sharing](https://drive.google.com/drive/folders/1XUxm_r5V57KIy-Emh8rnDBsGppmzhKGS?usp=sharing)
 
@@ -77,4 +76,4 @@ link : [https://drive.google.com/drive/folders/1_DhdjzIO776um5f6qzeYBEsiP2DATLFe
 **Vaibhav Raut**
 e-mail   : work.vaibhavraut@gmail.com
 LinkedIn : [https://www.linkedin.com/in/vaibhav-raut-/](url)
->>>>>>> origin/main
+

@@ -28,7 +28,25 @@ Atlasfly is a Flight Fare Prediction website developed using Machine Learning
 7. Database 
 
 </pre>
+## How to Use
+1. Clone the repository: `git clone https://github.com/your-username/flight-fare-prediction.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the Flask app: `python app.py`
+4. Open the app in your browser: [http://localhost:5000](http://localhost:5000)
 
+## Future Enhancements
+We're committed to continuously improving the project. Future enhancements may include:
+- Integration of additional data sources
+- User authentication and personalized features
+- Optimization of machine learning models
+
+## Contributions
+We welcome contributions from the community! If you'd like to contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to reach out to the team if you have any questions or suggestions. Happy coding and safe travels!
 ## HLD , LLD & WireFrame
 link : [https://drive.google.com/drive/folders/1_DhdjzIO776um5f6qzeYBEsiP2DATLFe?usp=sharing](https://drive.google.com/drive/folders/1XUxm_r5V57KIy-Emh8rnDBsGppmzhKGS?usp=sharing)
 
